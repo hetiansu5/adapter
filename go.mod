@@ -1,4 +1,4 @@
-module adapter
+module github.com/hetiansu5/adapter
 
 go 1.16
 
